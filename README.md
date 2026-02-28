@@ -7,7 +7,7 @@ This project demonstrates an end-to-end serverless data engineering pipeline bui
 
 ## 🏗 Architecture
 
-![Architecture](architecture/architecture.png.png)
+![architecture/architecture.png.png]
 
 This architecture follows a fully serverless pattern:
 
@@ -21,7 +21,7 @@ Recruiters & reviewers:
 
 👉 **Click below to watch the live demo of the working pipeline**
 
-[▶ Watch Demo Video](WhatsApp Video 2026-03-01 at 00.35.01.mp4)
+[▶ WhatsApp Video 2026-03-01 at 00.35.01.mp4]
 
 The video shows:
 - Raw data stored in S3
@@ -52,4 +52,11 @@ The Lambda function performs:
 ---
 
 ## 📂 Repository Structure
-
+aws-serverless-data-pipeline/
+│
+├── lambda/
+├── sample_data/
+├── output_sample/
+├── architecture
+├── WhatsApp Video 2026-03-01 at 00.35.01.mp4
+└── README.md
