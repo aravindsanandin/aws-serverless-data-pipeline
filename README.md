@@ -60,3 +60,20 @@ aws-serverless-data-pipeline/
 ├── architecture
 ├── WhatsApp Video 2026-03-01 at 00.35.01.mp4
 └── README.md
+
+
+---
+
+## 🧠 What I Learned
+
+- Designing a serverless data architecture
+- Configuring IAM roles correctly
+- Debugging Lambda with CloudWatch
+- Creating external tables in Athena
+- Querying S3 data using SQL without managing servers
+
+---
+
+## 💡 Key Takeaway
+
+Built a cost-efficient, fully serverless data pipeline that demonstrates modern cloud-native data engineering principles.
