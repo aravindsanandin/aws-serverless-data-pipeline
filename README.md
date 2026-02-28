@@ -7,21 +7,17 @@ This project demonstrates an end-to-end serverless data engineering pipeline bui
 
 ## 🏗 Architecture
 
-![architecture/architecture.png.png]
-
-This architecture follows a fully serverless pattern:
-
 Raw Data (S3) → AWS Lambda (ETL) → Processed Data (S3) → Amazon Athena (SQL Analytics)
 
 ---
 
-## 🎥 Project Demo (60 Seconds Walkthrough)
+## 🎥 Project Demo (3 mins Walkthrough)
 
 Recruiters & reviewers:
 
-👉 **Click below to watch the live demo of the working pipeline**
+👉 **Checkout the link below to watch the live demo of the working pipeline**
 
-[▶ WhatsApp Video 2026-03-01 at 00.35.01.mp4]
+ youtube :- https://www.youtube.com/watch?v=37h25q1AaHg
 
 The video shows:
 - Raw data stored in S3
